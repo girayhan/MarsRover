@@ -15,4 +15,4 @@ For each rover there are lines of final positions and directions of rovers
 
 Example input and output:
 
-![Alt text](images/InputOutput.PNG?raw=true Example)
+![Alt text](https://github.com/girayhan/MarsRover/blob/main/images/InputOutput.PNG)
