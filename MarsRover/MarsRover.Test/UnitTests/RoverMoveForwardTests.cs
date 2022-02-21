@@ -9,6 +9,9 @@
         public void MoveRoverForwardWhenDirectionIsEast(uint x, uint y, Direction direction)
         {
             var rover = new Rover(new Coordinate(x, y), direction);
+            
+            
+            
             rover.MoveForward();
             Assert.Equal(Direction.East, rover.Direction);
             Assert.Equal((uint)2, rover.Coordinate.X);
