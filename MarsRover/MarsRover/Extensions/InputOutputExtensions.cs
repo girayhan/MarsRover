@@ -25,6 +25,8 @@
                 movementInstructions.Add(movementInput.ToMovement());
             }
 
+            
+            
             return new MovementInstructions(movementInstructions);
         }
 
