@@ -65,6 +65,9 @@
 
         public static char ToDirectionOutput(this Direction direction)
         {
+            
+            
+            
             switch (direction)
             {
                 case Direction.North: return 'N';
